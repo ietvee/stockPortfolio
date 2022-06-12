@@ -20,7 +20,7 @@ To run app, you can run
 ```
 flutter run
 ```
-To build apk, you can tun
+To build apk, you can run
 ```
 flutter build apk
 ```
