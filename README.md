@@ -16,15 +16,17 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## How To Run
-You can run 
+To run app, you can run 
 ```
 flutter run
+```
+To build apk, you can tun
+```
+flutter build apk
 ```
 
 ## Screenshots Of Applications
 ![screenshots](https://user-images.githubusercontent.com/76692526/173220848-0c14eb79-4ace-4354-81ce-d78e8cd77fd7.PNG)
-
-
 
 
 ## APK file
