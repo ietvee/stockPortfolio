@@ -22,6 +22,12 @@ flutter run
 ```
 
 ## Screenshots Of Applications
+![favACompany](https://user-images.githubusercontent.com/76692526/173213434-b701467f-7f0f-4d89-b92d-f63f22a927cc.png)
+![companyDetails](https://user-images.githubusercontent.com/76692526/173213444-83ffc898-0c53-45c1-bd5b-d42b85258c25.png)
+![favCompanyPage](https://user-images.githubusercontent.com/76692526/173213446-221f2501-71e7-4c8e-b554-e5dc08966cb3.png)
+![homeScreen](https://user-imag![loadingHomeScreen](https://user-images.githubusercontent.com/76692526/173213452-b4a126d3-4c02-4792-ab3a-1d49c9f84692.png)
+![pagination](https://user-images.githubusercontent.com/76692526/173213453-bb8a6df6-229e-49d9-a3a1-94b49701c1d2.png)
+![loadingHomeScreen](https://user-images.githubusercontent.com/76692526/173213461-8adf09d0-775a-4f8a-8694-7199420775c2.png)
 
 
 ## APK file
