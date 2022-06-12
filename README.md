@@ -22,7 +22,9 @@ flutter run
 ```
 
 ## Screenshots Of Applications
-![favACompany](https://user-images.githubusercontent.com/76692526/173213434-b701467f-7f0f-4d89-b92d-f63f22a927cc.png | width=100)
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/76692526/173213434-b701467f-7f0f-4d89-b92d-f63f22a927cc.png)" width="500
+" height="500">
 ![companyDetails](https://user-images.githubusercontent.com/76692526/173213444-83ffc898-0c53-45c1-bd5b-d42b85258c25.png)
 ![favCompanyPage](https://user-images.githubusercontent.com/76692526/173213446-221f2501-71e7-4c8e-b554-e5dc08966cb3.png)
 ![homeScreen](https://user-imag![loadingHomeScreen](https://user-images.githubusercontent.com/76692526/173213452-b4a126d3-4c02-4792-ab3a-1d49c9f84692.png)
